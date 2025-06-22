@@ -1,4 +1,4 @@
-###Cognizant Digital Nurture 4.0 – Java Full Stack Engineer Assignments
+# Cognizant Digital Nurture 4.0 – Java Full Stack Engineer Assignments
 
 This repository contains a structured set of weekly assignments and hands-on coding tasks developed during the Cognizant Digital Nurture 4.0 program, specifically under the Java Full Stack Engineer (JSE) track.
 
